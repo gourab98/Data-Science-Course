@@ -1,0 +1,268 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.11)  13 FEB 2021 09:36
+entering extended mode
+**./2017831004.tex
+(2017831004.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size11.clo"
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+("C:\Program Files\MiKTeX\tex/latex/listings\listings.sty"
+\lst@mode=\count183
+\lst@gtempboxa=\box47
+\lst@token=\toks16
+\lst@length=\count184
+\lst@currlwidth=\dimen141
+\lst@column=\count185
+\lst@pos=\count186
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count187
+\lst@lineno=\count188
+\lst@maxwidth=\dimen144
+
+("C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count189
+\lst@skipnumbers=\count190
+\lst@framebox=\box48
+)
+("C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg"
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\MANSTEIN\AppData\Roaming\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count191
+\l__pdf_internal_box=\box49
+)
+(2017831004.aux)
+\openout1 = `2017831004.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen145
+\scratchbox=\box50
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen146
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count198
+<sust.png, id=1, 205.5178pt x 225.84375pt>
+File: sust.png Graphic file (type png)
+<use sust.png>
+Package pdftex.def Info: sust.png  used on input line 36.
+(pdftex.def)             Requested size: 102.75865pt x 112.92159pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+{C:/Users/MANSTEIN/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./sust.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 47.
+<NaiveBayesModel.png, id=11, 383.93437pt x 376.40625pt>
+File: NaiveBayesModel.png Graphic file (type png)
+<use NaiveBayesModel.png>
+Package pdftex.def Info: NaiveBayesModel.png  used on input line 80.
+(pdftex.def)             Requested size: 313.00041pt x 199.17271pt.
+ [2 <./NaiveBayesModel.png>]
+<NaiveBayesMatrix.png, id=17, 704.6325pt x 520.94624pt>
+File: NaiveBayesMatrix.png Graphic file (type png)
+<use NaiveBayesMatrix.png>
+Package pdftex.def Info: NaiveBayesMatrix.png  used on input line 86.
+(pdftex.def)             Requested size: 422.78278pt x 312.57016pt.
+
+Overfull \hbox (79.78278pt too wide) in paragraph at lines 86--87
+[][] 
+ []
+
+<KNNModel.png, id=18, 349.305pt x 368.87813pt>
+File: KNNModel.png Graphic file (type png)
+<use KNNModel.png>
+Package pdftex.def Info: KNNModel.png  used on input line 96.
+(pdftex.def)             Requested size: 312.99646pt x 199.1687pt.
+[3 <./NaiveBayesMatrix.png>]
+<KNNMatrix.png, id=23, 744.53156pt x 517.935pt>
+File: KNNMatrix.png Graphic file (type png)
+<use KNNMatrix.png>
+Package pdftex.def Info: KNNMatrix.png  used on input line 102.
+(pdftex.def)             Requested size: 446.72238pt x 310.76338pt.
+
+Overfull \hbox (103.72238pt too wide) in paragraph at lines 102--103
+[][] 
+ []
+
+[4 <./KNNModel.png> <./KNNMatrix.png>]
+<DecisionTreeModel.png, id=29, 389.20406pt x 365.11406pt>
+File: DecisionTreeModel.png Graphic file (type png)
+<use DecisionTreeModel.png>
+Package pdftex.def Info: DecisionTreeModel.png  used on input line 111.
+(pdftex.def)             Requested size: 312.99089pt x 199.16985pt.
+<DecisionTreeMatrix.png, id=30, 572.89032pt x 400.49625pt>
+File: DecisionTreeMatrix.png Graphic file (type png)
+<use DecisionTreeMatrix.png>
+Package pdftex.def Info: DecisionTreeMatrix.png  used on input line 117.
+(pdftex.def)             Requested size: 455.25331pt x 199.17207pt.
+
+Overfull \hbox (112.25331pt too wide) in paragraph at lines 117--118
+[][] 
+ []
+
+[5 <./DecisionTreeModel.png> <./DecisionTreeMatrix.png>]
+<RandomForestModel.png, id=36, 380.17032pt x 372.64218pt>
+File: RandomForestModel.png Graphic file (type png)
+<use RandomForestModel.png>
+Package pdftex.def Info: RandomForestModel.png  used on input line 127.
+(pdftex.def)             Requested size: 312.98888pt x 170.7124pt.
+<RandomForestMatrix.png, id=37, 727.96968pt x 517.935pt>
+File: RandomForestMatrix.png Graphic file (type png)
+<use RandomForestMatrix.png>
+Package pdftex.def Info: RandomForestMatrix.png  used on input line 133.
+(pdftex.def)             Requested size: 455.25763pt x 199.17244pt.
+
+Overfull \hbox (112.25763pt too wide) in paragraph at lines 133--134
+[][] 
+ []
+
+[6 <./RandomForestModel.png> <./RandomForestMatrix.png>]
+<ArtificialNeuralNetworkModel.png, id=43, 373.395pt x 354.57469pt>
+File: ArtificialNeuralNetworkModel.png Graphic file (type png)
+<use ArtificialNeuralNetworkModel.png>
+Package pdftex.def Info: ArtificialNeuralNetworkModel.png  used on input line 1
+43.
+(pdftex.def)             Requested size: 312.99445pt x 199.17184pt.
+<ArtificialNeuralNetworkMatrix.png, id=44, 608.2725pt x 432.11438pt>
+File: ArtificialNeuralNetworkMatrix.png Graphic file (type png)
+<use ArtificialNeuralNetworkMatrix.png>
+Package pdftex.def Info: ArtificialNeuralNetworkMatrix.png  used on input line 
+149.
+(pdftex.def)             Requested size: 455.25655pt x 170.71297pt.
+
+Overfull \hbox (112.25655pt too wide) in paragraph at lines 149--150
+[][] 
+ []
+
+[7 <./ArtificialNeuralNetworkModel.png> <./ArtificialNeuralNetworkMatrix.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 169--173
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 196--200
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+04.
+("C:\Program Files\MiKTeX\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
+
+Overfull \hbox (24.03828pt too wide) in paragraph at lines 204--205
+[]\OT1/cmr/m/n/10.95 params = \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.95 'class we
+ight': [ \OMS/cmsy/m/n/10.95 f\OT1/cmr/m/n/10.95 0:neg weight, 1:1\OMS/cmsy/m/n
+/10.95 g \OT1/cmr/m/n/10.95 for neg weight in np.arange(1.0,
+ []
+
+[9] (2017831004.aux) ) 
+Here is how much of TeX's memory you used:
+ 2682 strings out of 480236
+ 39929 string characters out of 2890375
+ 308548 words of memory out of 3000000
+ 19257 multiletter control sequences out of 15000+200000
+ 540874 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,6n,66p,319b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb>
+Output written on 2017831004.pdf (9 pages, 788181 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
