@@ -1,2 +1,2 @@
 # Data-Science-Course
-Assignments from data science course
+Assignments from Introduction to Data Science Course.
